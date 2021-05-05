@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Agarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himture" alt="himture" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/himture" target="blank"><img src="https://img.shields.io/twitter/follow/himture?logo=twitter&style=for-the-badge" alt="himture" /></a> </p>
 
 - 🔭 I’m currently working on **computer vision**
