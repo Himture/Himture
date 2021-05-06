@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OpenCV**
 
-- 👨‍💻 All of my projects are available at [himture.me](himture.me)
+- 👨‍💻 All of my projects are available at [https://himture.me](himture.me)
 
 - 💬 Ask me about **anything**
 
