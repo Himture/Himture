@@ -32,6 +32,10 @@
 
 ![GitHub Profile data](https://github-readme-stats.vercel.app/api?username=himture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+<br />
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 [website]: https://himture.me
 [twitter]: https://twitter.com/himture
 [youtube]: https://youtube.com/himture
