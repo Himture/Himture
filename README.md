@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/himture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="himture" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="himture" height="30" width="40" /></a>
-<a href="https://instagram.com/himture" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="himture" height="30" width="40" /></a>
+<a href="https://instagram.com/himture" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Instagram_svg-512.png" alt="himture" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/himture" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="himture" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/himture" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="himture" height="30" width="40" /></a>
 </p>
