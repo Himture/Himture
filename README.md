@@ -30,3 +30,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himture&show_icons=true&locale=en" alt="himture" /></p>
 
+[website]: https://himture.me
+[twitter]: https://twitter.com/himture
+[youtube]: https://youtube.com/himture
+[instagram]: https://instagram.com/himture
+[linkedin]: https://linkedin.com/in/himture
