@@ -44,7 +44,7 @@
 <h3>Spotify Now Playing..</h3>
 
 <a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://himturespotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://himturespotify.vercel.app/now-playing" alt="Now Playing">`
 </a>
 
 
