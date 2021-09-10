@@ -40,6 +40,10 @@
 <br />
 
 ![GitHub Profile data](https://github-readme-stats.vercel.app/api?username=himture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himture&theme=midnight-purple&hide_border=true&dates=A3F445)](https://git.io/streak-stats)
+<br>
+<h3>Spotify Now Playing..</h3>
+
+[![Spotify](https://himturespotify.vercel.app/api/spotify)](https://open.spotify.com/user/ry2a8snebq0uldmozof9jmt02)
 
 
 [website]: https://himture.me
