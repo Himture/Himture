@@ -43,7 +43,9 @@
 <br>
 <h3>Spotify Now Playing..</h3>
 
-[![Spotify](https://himturespotify.vercel.app/api/spotify)](https://open.spotify.com/user/ry2a8snebq0uldmozof9jmt02)
+<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
+    <img src="https://himturespotify.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
 
 
 [website]: https://himture.me
