@@ -3,18 +3,6 @@
 
 <p align="center"> <a href="https://twitter.com/himture" target="blank"><img src="https://img.shields.io/twitter/follow/himture?logo=twitter&style=for-the-badge" alt="himture" /></a> </p>
 
-- 🔭 I’m currently working on **computer vision**
-
-- 🌱 I’m currently learning **OpenCV**
-
-- 👨‍💻 All of my projects are available at [himture.me](https://himture.me)
-
-- 💬 Ask me about **anything**
-
-- 📫 How to reach me **everythinghimanshu@gmail.com**
-
-- ⚡ Fun fact **Life is weird. Lets just live it.**
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
