@@ -29,11 +29,6 @@
 
 ![GitHub Profile data](https://github-readme-stats.vercel.app/api?username=himture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himture&theme=midnight-purple&hide_border=true&dates=A3F445)](https://git.io/streak-stats)
 <br>
-<h3>Spotify Now Playing..</h3>
-
-<a href="https://MY_VERCEL_DEPLOYMENT_URL/now-playing?open">
-    <img src="https://himturespotify.vercel.app/now-playing" alt="Now Playing">`
-</a>
 
 
 [website]: https://himture.me
