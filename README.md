@@ -27,10 +27,6 @@
 
 <br />
 
-![GitHub Profile data](https://github-readme-stats.vercel.app/api?username=himture&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=himture&theme=midnight-purple&hide_border=true&dates=A3F445)](https://git.io/streak-stats)
-<br>
-
-
 [website]: https://himture.me
 [twitter]: https://twitter.com/himture
 [youtube]: https://youtube.com/himture
